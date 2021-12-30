@@ -4,6 +4,3 @@
 ```
 pip install git+https://github.com/htylab/pymr
 ```
-
-
-test
