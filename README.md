@@ -1,2 +1,9 @@
 # pymr
-A open source package for magnetic resonance Imaging
+
+## Installation
+```
+pip install git+https://github.com/htylab/pymr
+```
+
+
+test
